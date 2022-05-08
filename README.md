@@ -357,6 +357,6 @@ Copy the `PUBLIC_KEY` address and navigate to `https://nftrade.com/users/avalanc
 
 ![Screen Shot 2022-05-08 at 6.29.42 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652016597426/Um9YnRSx2.png)
 
-### 🐱 View the [GitHub Repo](https://github.com/jcstein/ankr-avax-nft)
+### 🐱 View this tutorial on [Hashnode](https://ankr.hashnode.dev/how-to-deploy-an-erc-721-smart-contract-to-avalanche-and-mint-an-nft-with-ankr-hardhat-and-ethersjs) and [Dev.to](https://dev.to/ankr/how-to-deploy-an-erc-721-smart-contract-to-avalanche-and-mint-an-nft-with-ankr-hardhat-and-ethersjs-32gg)
 
-Follow Ankr on Hashnode for more tutorials!
+Follow Ankr on Hashnode and Dev.to for more tutorials!
