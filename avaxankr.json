@@ -1,0 +1,19 @@
+{
+  "name": "Ankr x Avalanche ERC-721 NFT",
+  "description": "Ankr x Avalanche ERC-721 NFT",
+  "image": "https://ipfs.io/ipfs/bafybeieua46kk2xqshlpttael2r2ypjiyua3fcwnft52a44tk7jlzu263y/AVAX_x_ANKR.png",
+  "attributes": [
+    {
+      "trait_type": "Developer",
+      "value": "Josh CS"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://ankr.com"
+    },
+    {
+      "trait_type": "Conference",
+      "value": "https://avalanche.house"
+    }
+  ]
+}
