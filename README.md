@@ -1,5 +1,7 @@
 # How to Deploy an ERC-721 Smart Contract to Avalanche and Mint an NFT with Ankr, Hardhat, and Ethers.js 🔺
 
+![Ankr_AVAX_NFT](https://ipfs.io/ipfs/bafybeibq7i76zagvzfuw2k7y2i7rpuykwh2xrcageyxpk2trhkiyksigtq/AVAX%20x%20ANKR-05.png)
+
 ### 💻 Set up your Dev Environment
 
 First, create a new directory called `avaxankr`
