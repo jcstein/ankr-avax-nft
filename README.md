@@ -120,7 +120,7 @@ npm install --save dotenv
 Create a `.env` file in your project’s root folder and set the environment variable as follows. This is the private key of the account you intend to use on the Avalanche Network from MetaMask
 
 ```bash
-PRIVATE_KEY = YOUR_PRIVATE_KEY
+PRIVATE_KEY=YOUR_PRIVATE_KEY
 ```
 
 ###👷‍♀️ Setup Hardhat to Compile and Deploy Your Contract to Fuji Testnet
@@ -239,8 +239,8 @@ Create an account on Snowtrace and go to [https://snowtrace.io/myapikey](https:/
 ![Untitled.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651994283187/15UmKUvle.png)
 
 ```bash
-PRIVATE_KEY = YOUR_PRIVATE_KEY
-SNOWTRACE_API_KEY = YOUR_API_KEY
+PRIVATE_KEY=YOUR_PRIVATE_KEY
+SNOWTRACE_API_KEY=YOUR_API_KEY
 ```
 
 Be sure your Snowtrace API key is in your `.env` file and then run the following command to verify your contract on Snowtrace. Verifying the contract on Snowtrace will decode the bytecode to human-readable code. Be sure to replace the `YOUR_CONTRACT_ADDRESS` with your contract address. ⬇️
@@ -292,10 +292,10 @@ Copy the `URI` and create an `avaxnft.json` file in root directory. Add the `URI
 Upload `avaxnft.json` to [Web3.storage](http://Web3.storage) and copy the `URI` and add it to the `tokenURI` variable in `mint.js`. Add a `CONTRACT_ADDRESS` variable and `PUBLIC_KEY` in your `.env` file and add them.
 
 ```bash
-PRIVATE_KEY = YOUR_PRIVATE_KEY
-SNOWTRACE_API_KEY = YOUR_API_KEY
-CONTRACT_ADDRESS = YOUR_CONTRACT_ADDRESS
-PUBLIC_KEY = YOUR_PUBLIC_KEY
+PRIVATE_KEY=YOUR_PRIVATE_KEY
+SNOWTRACE_API_KEY=YOUR_API_KEY
+CONTRACT_ADDRESS=YOUR_CONTRACT_ADDRESS
+PUBLIC_KEY=YOUR_PUBLIC_KEY
 ```
 
 Create your `mint.js` file in the `scripts` directory
